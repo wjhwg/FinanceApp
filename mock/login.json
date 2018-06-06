@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "message": "请求成功",
+    "data": {
+      "id": "9999",
+      "token": "xxxxx",
+      "userid": "23232323",
+      "username": "张三丰"
+    }
+  }

@@ -1,0 +1,26 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": [
+        {
+            "id": 1,
+            "name": "轮播图一",
+            "imgUrl": "http://vfile.meituan.net/scarlett/c1618fcb00679872bad47f02b8fbf4c132963.",
+            "linkUrl": "http://www.baidu.com",
+            "description": "轮播图一"
+        },
+        {
+            "id": 2,
+            "name": "轮播图一",
+            "imgUrl": "http://vfile.meituan.net/scarlett/7c5c17221f1b3e7cc84abb9a83ed704e65595.jpg",
+            "linkUrl": "http://www.taobao.com",
+            "description": "轮播图二"
+        },{
+            "id": 3,
+            "name": "轮播图一",
+            "imgUrl": "http://vfile.meituan.net/scarlett/dc77f92c19bed6b42bcf3250dce221a022484.",
+            "linkUrl": "http://www.jd.com",
+            "description": "轮播图三"
+        }
+    ]
+  }
